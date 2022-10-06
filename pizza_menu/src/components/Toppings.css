@@ -1,0 +1,12 @@
+.toppings {
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 1.5rem;
+}
+
+.options_container {
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: 1fr 1fr;
+}
